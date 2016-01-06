@@ -1,0 +1,32 @@
+*~
+.DS_Store
+
+work/
+data/
+logs/
+build/
+
+## maven
+target/
+
+## gradle
+.gradle/
+
+## intellij
+.idea/
+*.iml
+*.ipr
+*.iws
+
+## eclipse
+.project
+.classpath
+.settings
+*/.project
+*/.classpath
+*/.settings
+*/eclipse-build
+
+## netbeans
+nb-configuration.xml
+nbactions.xml

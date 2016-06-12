@@ -238,7 +238,7 @@ public class DateUtils {
      * <p>Parses a string representing a date by trying a variety of different parsers.</p>
      * 
      * <p>The parse will try each parse pattern in turn.
-     * A parse is only deemed sucessful if it parses the whole of the input string.
+     * A parse is only deemed successful if it parses the whole of the input string.
      * If no parse patterns match, a ParseException is thrown.</p>
      * 
      * @param str  the date to parse, not null

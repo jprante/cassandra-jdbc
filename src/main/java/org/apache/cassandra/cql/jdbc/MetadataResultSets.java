@@ -611,7 +611,7 @@ public class MetadataResultSets {
         //4.NON_UNIQUE boolean => Can index values be non-unique. false when TYPE is tableIndexStatistic
         //5.INDEX_QUALIFIER String => index catalog (may be null); null when TYPE is tableIndexStatistic
         //6.INDEX_NAME String => index name; null when TYPE is tableIndexStatistic
-        //7.TYPE short => index type: - tableIndexStatistic - this identifies table statistics that are returned in conjuction with a table's index descriptions
+        //7.TYPE short => index type: - tableIndexStatistic - this identifies table statistics that are returned in conjunction with a table's index descriptions
         //- tableIndexClustered - this is a clustered index
         //- tableIndexHashed - this is a hashed index
         //- tableIndexOther - this is some other style of index
